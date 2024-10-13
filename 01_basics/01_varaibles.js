@@ -6,9 +6,9 @@ let accountState;
 
 //accountId = 2 not allowed
 
-/*accountEmail = "dfhsdkf@ga.com"
+accountEmail = "dfhsdkf@ga.com"
 accountPassword = "5234545435"
-accountCity = "Jammu"*/
+accountCity = "Jammu"
 
 //console.log(accountId);
 
